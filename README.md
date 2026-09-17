@@ -1,5 +1,15 @@
 # DormDesk — HostelOps Complaint Management System
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/AWS%20EC2%20%2B%20RDS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
+
+
 > **Milestone Project:** Full Stack Deployment & DevOps Engineering  
 > **Stack:** React · Node.js/Express · MySQL (AWS RDS) · Docker · Nginx · AWS EC2
 
