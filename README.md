@@ -14,7 +14,6 @@
 > **Stack:** React · Node.js/Express · MySQL (AWS RDS) · Docker · Nginx · AWS EC2
 
 ---
-
 ## 📋 Project Overview
 
 DormDesk is a production-deployed, containerized hostel complaint and maintenance management system. Students can submit and track maintenance complaints; admins can view, filter, and resolve them.
